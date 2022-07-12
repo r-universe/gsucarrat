@@ -3,15 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "garchx"]
-	path = garchx
-	url = https://github.com/gsucarrat/garchx
-	shallow = true
-	subdir = garchx
-	registered = true
-[submodule "gets"]
-	path = gets
-	url = https://github.com/gsucarrat/gets
-	shallow = true
-	subdir = gets
-	registered = true
