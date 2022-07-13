@@ -1,1 +1,10 @@
-[]
+[
+  {
+    "package": "garchx",
+    "oncran": true
+  },
+  {
+    "package": "gets",
+    "oncran": true
+  }
+]
