@@ -10,3 +10,6 @@
 	path = gets
 	url = https://github.com/gsucarrat/gets
 	subdir = gets
+[submodule "gfunctions"]
+	path = gfunctions
+	url = https://github.com/cran/gfunctions
